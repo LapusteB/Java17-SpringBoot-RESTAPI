@@ -1,10 +1,10 @@
-package com.springboot.firstspringboot;
+package com.spring1.springframework1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstSpringbootApplicationTests {
+class SpringFramework1ApplicationTests {
 
 	@Test
 	void contextLoads() {
